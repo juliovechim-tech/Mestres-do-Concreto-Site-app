@@ -7,7 +7,6 @@ import {
   User,
   Users,
   BookOpen,
-  HeartHandshake,
   Crosshair,
 } from "lucide-react";
 
